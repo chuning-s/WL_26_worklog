@@ -11,3 +11,6 @@ Started at 9:00 am. After getting used to CooRecorder, my speed increased a lot,
 Sept. 21st, 2026
 Started at 9:00 am. Checked the pairs of samples with CorrC values less than 0.4. Some of them were corrected, but for others, after trying to add and remove a few points, the CorrC was still less than 0.4. Finished at 11:00 am.
 At 12:00pm, I met with Mao to return the USB flash drive that I used to install CooRecorder. She mentioned that our lab has two ongoing projects, one involving germs in the soil that may lead to results soon, and the other using data from another lab that is still quite messy. Interesting.
+
+Oct. 1st 2026
+I’ve finished the tree core sample measurements I have so far, but not all of the AO03 samples. I think I’ll need to check this with Mao. I received the genecology data, and it indeed is a HUGE dataset. I’ve gone through the ReadMe and the wiki, and I was planning to discuss the specific visualization requirements with Mao, but she’s out of town this week, so I’ll probably start dealing with data next weak.

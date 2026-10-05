@@ -14,3 +14,6 @@ At 12:00pm, I met with Mao to return the USB flash drive that I used to install 
 
 Oct. 1st 2026
 I’ve finished the tree core sample measurements I have so far, but not all of the AO03 samples. I think I’ll need to check this with Mao. I received the genecology data, and it indeed is a HUGE dataset. I’ve gone through the ReadMe and the wiki, and I was planning to discuss the specific visualization requirements with Mao, but she’s out of town this week, so I’ll probably start dealing with data next weak.
+
+Oct. 2nd 2026
+Started at 10:00 am. Jaslyne and I finished collecting the soil samples from the growth chamber that we started on Sept. 25th, and we tried to clean up as much as we could before leaving. The work wasn’t difficult but also repetitive. We may start using the autoclave soon before I forget how to use it. Finished at 12:00 pm.

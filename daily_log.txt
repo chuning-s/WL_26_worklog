@@ -25,3 +25,11 @@ To make up for the work hours I missed earlier this week, I finished my own task
 Oct. 9th 2026
 Started at 9:00 am. I checked my first draft of the age vs. height graph (grouped by site), and it turns out I understood the requirements correctly, which is great! I then finished cleaning data for the other graph at 12:00pm. Then I attended my first lab meeting, though an informal one, at 2:00 pm. It was exciting, except that I went to the wrong place and ended up being 10 minutes late.
 The key takeaway was that everyone doing forestry research is dealing with tons of data and diversity, and often got struggle to identify patterns in different traits.
+
+Oct. 16th 2026
+Another meeting with Mao. I'm no longer in a situation where I have nothing to work on!
+Now, my tasks are:
+1. Move my code from JupyterLab to RStudio.
+2. Rename the files.
+3. Start working on the Doug repository.
+4. Learn about Bayesian models???? Sounds hard though...

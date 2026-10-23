@@ -33,3 +33,8 @@ Now, my tasks are:
 2. Rename the files.
 3. Start working on the Doug repository.
 4. Learn about Bayesian models???? Sounds hard though...
+
+Oct. 22nd 2026
+Since everyone can see when I push changes to GitHub, I can't lie about working at 11:30 pm today. But that's only because I didn't have any other time to work this week.
+I started at 7 pm and converted my code from Jupyter Notebook to R scripts using RStudio, so now everyone can see my messy code. I also generated figures for every provenance for both mean value and figures including all tree data.
+Sorry and sadly I realized that I lost my notes about the Doug repository. I guess I'll have to ask Mao again.

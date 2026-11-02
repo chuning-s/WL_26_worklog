@@ -43,3 +43,8 @@ Oct. 26th 2026
 Started at 10:00 AM. I combined all the data frames in Doug's repository by copying and pasting, since I don't know any more advanced ways to do it yet... But at least the graph shows some trends. 
 There are certain years when trees from different provenances all have relatively higher or lower BAI values. Some weird data points appear around 1976–1980, when two provenances have BAI values greater than 2.
 End at 1:00 PM
+
+Nov. 2nd 2026
+Started at 10:00 AM. I finished creating graphs for Doug's repository showing: 1. the mean BAI value across all provenances, and 2. the cumulative BAI value across all provenances.
+There are some noticeable outliers in Prov 228 and Prov 1115, which might affect their cumulative BAI values.
+End at 12:00 PM

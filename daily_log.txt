@@ -48,3 +48,8 @@ Nov. 2nd 2026
 Started at 10:00 AM. I finished creating graphs for Doug's repository showing: 1. the mean BAI value across all provenances, and 2. the cumulative BAI value across all provenances.
 There are some noticeable outliers in Prov 228 and Prov 1115, which might affect their cumulative BAI values.
 End at 12:00 PM
+
+Nov. 3rd 2026
+Started at 1:30 PM. I went through the first few slides about the Bayesian model. With little background in statistics, there were tons of new concepts and equations introduced in the slides, which made them a bit hard to understand. 
+But I think I got the basic idea of how the prior, likelihood, and posterior work together to refine a model.
+I also spent some time finishing up the remaining tree core measurements for relaxing my brain and finished my work at 4:30 PM.

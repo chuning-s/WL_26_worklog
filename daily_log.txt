@@ -53,3 +53,9 @@ Nov. 3rd 2026
 Started at 1:30 PM. I went through the first few slides about the Bayesian model. With little background in statistics, there were tons of new concepts and equations introduced in the slides, which made them a bit hard to understand. 
 But I think I got the basic idea of how the prior, likelihood, and posterior work together to refine a model.
 I also spent some time finishing up the remaining tree core measurements for relaxing my brain and finished my work at 4:30 PM.
+
+Nov. 5th, 2026
+Started at 1:00 PM. I met with Mao to discuss new tasks related to meta analysis. My future tasks are to graph tree ring widths similarly to BAI values, label chemical concentrations based on experimental figures, and continue learning Bayesian modeling.
+
+Nov. 9th, 2026
+Finished at 4:00 PM. I finished going through the first three sets of slides on Bayesian modeling, up to Stan. They mainly covered MCMC algorithms, warmup runs, and Stan coding. Finally I got to something related to coding instead of just mathematics. 

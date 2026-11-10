@@ -59,3 +59,11 @@ Started at 1:00 PM. I met with Mao to discuss new tasks related to meta analysis
 
 Nov. 9th, 2026
 Finished at 4:00 PM. I finished going through the first three sets of slides on Bayesian modeling, up to Stan. They mainly covered MCMC algorithms, warmup runs, and Stan coding. Finally I got to something related to coding instead of just mathematics. 
+
+Nov. 10th 2026
+Started at 12:00 PM. I first finished going through all the slides about Bayesian modeling, then realized I only needed to study the Introduction and Stan slides. Sorry for wasting both of our time...
+
+Then I finished creating graphs for tree ring width in the Doug repository. The process was similar to graphing BAI values, so it was fairly easy, mostly just copying and pasting with some small revisions.
+
+I also almost finished matching the chemical concentrations with their units in a separate sheet. My next step is to add a new column to the original CSV file. (WHY DON'T SOME AUTHORS INCLUDE UNITS IN THEIR GRAPHS???)
+Finished at 5:00 PM.

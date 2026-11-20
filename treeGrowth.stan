@@ -1,6 +1,10 @@
 //Part 1 data block
 //Temp, a predictor, indicate observed temperature difference
 //height, a response, indicate observed mean tree height
+
+//What does those lower=0 or lower=1 for? When should we add them?
+//When should we use array or vector?
+
 data {
   int<lower=0> N;
   vector[N] Temp;
@@ -28,6 +32,7 @@ model {
   alpha ~ normal(5,3);
   beta1 ~ normal(1,0.5);
   beta2 ~ normal(0,0.5);
+  //Why is sigma here use exponential?
   sigma ~ exponential (1);
   
   //Is vector[N] mu used to define mu?

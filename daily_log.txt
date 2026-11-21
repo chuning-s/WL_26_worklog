@@ -71,3 +71,10 @@ New update! Today, I met with Mao, and my next tasks are:
 1. Cross-validate AO06 tree core samples.
 2. Try a simple Bayesian model.
 3. Convert chemical units into comparable values.
+
+Nov. 20th 2026
+Started at 10:00 AM.
+Finished converting chemical concentrations to mg/L and exported the data as a CSV file. I temporarily used mg/L as the standard unit since 1 ppm ≈ 1 mg/L, and these were the two most common units in the papers.
+Tried building my first Bayesian model in Stan. The theory and application are quite different, though, since the computer does most of the calculations. Still too many new terms and definitions to understand and remember!
+Checked correlations in the AV06 files and tried to fix some negative Corr values. Green means not yet checked, yellow means already checked. Since the images weren't renamed properly, I had to manually rename them and update the paths in the .pos files. Very very annoying, especially adjusting uncertain points doesn't always improve the Corr values.
+Finished at 7:30 PM. Yes, I did worked 7.5 hours today to make up for my previous working hours... :P
